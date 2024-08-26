@@ -20,3 +20,16 @@ El desarrollo de este trabajo permite llegar a la conclusión de que el uso de t
 
 ## **Presentación**
 [Presentacion](https://gamma.app/docs/Problema-de-Negocio-7adwd2556eu2rrr)
+
+## **Requirements**
+python                  3.11.9
+joblib                  1.4.2
+matplotlib              3.9.0
+numpy                   1.26.4
+pandas                  2.2.2
+plotly                  5.23.0
+scikit-learn            1.5.0
+scipy                   1.13.1
+seaborn                 0.13.2
+statsmodels             0.14.2
+ipykernel               6.29.4
