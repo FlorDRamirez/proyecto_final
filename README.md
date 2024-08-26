@@ -20,3 +20,5 @@ El desarrollo de este trabajo permite llegar a la conclusión de que el uso de t
 
 ## **Presentación**
 https://gamma.app/docs/Naturaleza-del-proyecto-7adwd2556eu2rrr
+
+https://gamma.app/docs/Naturaleza-del-proyecto-7adwd2556eu2rrr?mode=present#card-92r8ez9i7da2gyl
