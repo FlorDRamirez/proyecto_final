@@ -19,4 +19,4 @@ Aprendizaje No supervisado
 El desarrollo de este trabajo permite llegar a la conclusión de que el uso de técnicas de ML en la industria arrocera, permite optimizar procesos, reducir el tiempo de clasificación, mejorar almacenaje en cuanto a la clase de arroz y minimizar los costos que se generan por esta actividad.
 
 ## **Presentación**
-https://gamma.app/docs/Problema-de-Negocio-7adwd2556eu2rrr?mode=present#card-92r8ez9i7da2gyl
+https://gamma.app/docs/Naturaleza-del-proyecto-7adwd2556eu2rrr
