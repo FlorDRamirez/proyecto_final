@@ -1,2 +1,2 @@
 # proyecto_final
-# Clases de Arroz (Cammeo y Osmancik)
+## Clasificación de Arroz (Cammeo y Osmancik)
